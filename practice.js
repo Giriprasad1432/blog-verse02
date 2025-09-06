@@ -6,7 +6,7 @@ console.log(typeof(a))
 name = "giri"
 console.log(typeof(b))
 let ar=[1,2,3,4,5];
-console.log(typeof(ar))
+console.log(typeof islogged)
 console.log(ar[0])
 console.log(ar[1])
 let person={
@@ -14,3 +14,4 @@ let person={
  age:"18"
 }
 console.log(person.name)
+console.log(person['age'])
